@@ -1,3 +1,4 @@
 Feature B implemented
 Team Project
 Version 1.0
+Minor improvement note
